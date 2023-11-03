@@ -4,7 +4,8 @@ Hi there 👋! \
 I'm Sreehari T K, B.Tech undergrad from CUSAT. I am a self taught Full Stack Developer, currently working on my own projects. I love learning about new technologies and how to make them work for the good of the web.
 
 
-**Visit My Portfolio :**(https://sreeharitk.github.io/Portfolio/)
+**Visit My Portfolio :**
+!(https://sreeharitk.github.io/Portfolio/)
 
 
 **Languages and Tools**:
